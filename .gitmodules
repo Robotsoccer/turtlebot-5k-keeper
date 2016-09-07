@@ -7,12 +7,3 @@
 [submodule "src/--force"]
 	path = src/--force
 	url = https://bitbucket.org/traclabs/trac_ik.git
-[submodule "src/trac_ik"]
-	path = src/trac_ik
-	url = https://bitbucket.org/traclabs/trac_ik.git
-[submodule "additional_code/dynamixel_hr"]
-	path = additional_code/dynamixel_hr
-	url = https://github.com/HumaRobotics/dynamixel_hr.git
-[submodule "src/dynamixel_hr_ros"]
-	path = src/dynamixel_hr_ros
-	url = https://github.com/HumaRobotics/dynamixel_hr_ros.git
